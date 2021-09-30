@@ -24,7 +24,7 @@ jobs:
         with:
           version: latest
           file: target/frids
-          args: '-7'
+          args: '-9'
       - uses: actions/upload-artifact@v2
         with:
           name: frids
