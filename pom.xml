@@ -30,9 +30,7 @@
                 <configuration>
                     <skip>false</skip>
                     <imageName>frids</imageName>
-                    <buildArgs>
-                        --no-fallback -H:IncludeResources=.*
-                    </buildArgs>
+                    <buildArgs>--no-fallback -H:IncludeResources=names\.txt</buildArgs>
                     <mainClass>us.byteb.frids.App</mainClass>
                 </configuration>
             </plugin>
