@@ -15,3 +15,7 @@ Reading UUIDs like THEODORA is fun.
 curl -O  https://github.com/bfncs/frids/releases/download/v0.0.1/frids
 chmod +x frids
 ```
+
+## TODO
+
+* Generate reproducible UUID replacements
