@@ -3,6 +3,7 @@ name: GraalVM Native Image build
 on:
   push:
     branches: [ main ]
+    tags: [ "v*.*.*" ]
 
 jobs:
   buildOnLinux:
