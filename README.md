@@ -12,7 +12,7 @@ Reading UUIDs like THEODORA is fun.
 ## Install
 
 ```
-curl -O  https://github.com/bfncs/frids/releases/download/v0.0.1/frids
+curl -O https://github.com/bfncs/frids/releases/latest/download/frids
 chmod +x frids
 ```
 
