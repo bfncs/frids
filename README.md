@@ -18,4 +18,4 @@ chmod +x frids
 
 ## TODO
 
-* Generate reproducible UUID replacements
+* Add alternative mode replacing with [Proquints](https://github.com/dsw/proquint)
