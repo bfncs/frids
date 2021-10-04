@@ -12,7 +12,7 @@ Reading UUIDs like SALMON_SYMBOLIZATION is fun.
 ## Install
 
 ```
-curl -O https://github.com/bfncs/frids/releases/latest/download/frids
+curl -OL https://github.com/bfncs/frids/releases/latest/download/frids
 chmod +x frids
 ```
 
