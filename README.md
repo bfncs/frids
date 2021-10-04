@@ -6,7 +6,7 @@ Replace UUIDS with **fr**indly **IDs**.
 
 ```
 > echo "Reading UUIDs like 929623e1-4ca6-43d5-b9a0-ef675a3111dd is fun." | frids
-Reading UUIDs like THEODORA is fun.
+Reading UUIDs like SALMON_SYMBOLIZATION is fun.
 ```
 
 ## Install
